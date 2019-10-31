@@ -1,0 +1,117 @@
+2019-10-30 12:17:37,322 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 12:17:49,016 [main] INFO Registration - succesfully registered
+2019-10-30 12:19:50,587 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 12:19:58,692 [main] INFO Login - succesfully login
+2019-10-30 12:21:59,058 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 12:23:01,319 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 12:23:20,038 [main] INFO Flight - Flightsearch
+2019-10-30 12:24:38,118 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 12:24:55,540 [main] INFO Tour - TourSearch
+2019-10-30 12:28:45,335 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 12:30:49,341 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 12:31:06,402 [main] INFO Flight - Flightsearch
+2019-10-30 12:41:57,712 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 12:42:21,187 [main] INFO Flight - Flightsearch
+2019-10-30 12:44:13,276 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 12:44:25,766 [main] INFO Flight - Flightsearch
+2019-10-30 12:47:58,568 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 12:48:10,656 [main] INFO Flight - Flightsearch
+2019-10-30 12:49:27,969 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 12:49:40,457 [main] INFO Flight - Flightsearch
+2019-10-30 13:03:17,991 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 13:09:48,210 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 13:13:07,778 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 13:15:30,451 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 13:21:04,522 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 14:07:01,682 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 14:12:13,149 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 14:15:59,828 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 14:17:05,118 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 14:17:52,036 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 14:21:45,855 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 14:22:20,701 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 14:25:31,539 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 14:25:37,488 [main] INFO Registration - succesfully registered
+2019-10-30 14:26:15,390 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 14:26:21,271 [main] INFO Registration - succesfully registered
+2019-10-30 14:27:53,738 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 14:27:59,650 [main] INFO Registration - succesfully registered
+2019-10-30 14:29:32,450 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 14:29:38,277 [main] INFO Registration - succesfully registered
+2019-10-30 14:33:17,799 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 14:37:46,508 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 14:43:44,991 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 14:45:35,129 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 14:47:13,835 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 15:05:35,463 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 15:05:59,418 [main] INFO Tour - TourSearch
+2019-10-30 15:06:25,164 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 15:07:15,294 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 15:07:44,886 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 15:08:02,852 [main] INFO Login - succesfully login
+2019-10-30 15:08:49,339 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 15:15:02,264 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 15:15:14,348 [main] INFO Tour - TourSearch
+2019-10-30 15:15:24,366 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 15:15:36,941 [main] INFO Flight - Flightsearch
+2019-10-30 15:15:52,188 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 15:15:56,356 [main] INFO Login - succesfully login
+2019-10-30 15:16:12,606 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 15:30:28,580 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 15:30:48,116 [main] INFO Tour - TourSearch
+2019-10-30 15:35:39,296 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 15:35:55,658 [main] INFO Tour - TourSearch
+2019-10-30 15:39:17,686 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 15:39:35,218 [main] INFO Tour - TourSearch
+2019-10-30 15:39:56,854 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 15:40:14,585 [main] INFO Flight - Flightsearch
+2019-10-30 15:40:49,509 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 15:40:55,600 [main] INFO Login - succesfully login
+2019-10-30 15:41:18,311 [main] INFO LaunchBrowser - succesfully launch
+2019-10-30 17:21:51,932 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 10:57:56,386 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 10:58:34,802 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 11:00:20,460 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 11:03:37,995 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 11:06:35,474 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 11:07:24,828 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 11:10:09,206 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 11:10:22,823 [main] INFO Flight - Flightsearch
+2019-10-31 11:11:28,731 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 11:11:42,772 [main] INFO Flight - Flightsearch
+2019-10-31 11:12:56,203 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 11:13:10,318 [main] INFO Flight - Flightsearch
+2019-10-31 11:14:45,710 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 11:20:05,571 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 11:20:21,303 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 11:20:23,644 [main] INFO Login - succesfully login
+2019-10-31 11:20:46,168 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 11:21:01,969 [main] INFO Tour - TourSearch
+2019-10-31 11:21:38,886 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 11:26:17,985 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 11:26:30,722 [main] INFO Flight - Flightsearch
+2019-10-31 11:27:05,139 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 11:27:21,843 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 11:27:24,029 [main] INFO Login - succesfully login
+2019-10-31 11:27:37,299 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 11:27:52,329 [main] INFO Tour - TourSearch
+2019-10-31 11:28:22,606 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 12:05:38,771 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 12:06:22,905 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 12:06:37,516 [main] INFO Flight - Flightsearch
+2019-10-31 12:14:39,201 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 12:14:52,173 [main] INFO Flight - Flightsearch
+2019-10-31 12:37:10,892 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 12:37:28,130 [main] INFO Flight - Flightsearch
+2019-10-31 12:38:19,806 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 12:38:35,321 [main] INFO Flight - Flightsearch
+2019-10-31 12:41:08,549 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 12:44:49,041 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 12:45:05,022 [main] INFO Flight - Flightsearch
+2019-10-31 12:57:20,819 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 13:02:26,245 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 13:05:23,694 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 13:07:51,039 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 13:08:05,741 [main] INFO Tour - TourSearch
+2019-10-31 13:10:18,814 [main] INFO LaunchBrowser - succesfully launch
+2019-10-31 13:10:35,382 [main] INFO Tour - TourSearch
